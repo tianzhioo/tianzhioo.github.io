@@ -3,5 +3,9 @@
  {"bid":"com.tzcq.xs",
  "auditState":0,
  "url":"http://m.duodianpay.com/sdk.php/game?game_id=14&agent_id=10",
+ "version":"1.0.1"},
+{"bid":"com.tzcq.xs",
+ "auditState":0,
+ "url":"http://m.duodianpay.com/sdk.php/game?game_id=14&agent_id=10",
  "version":"1.1.1"}
 ]
